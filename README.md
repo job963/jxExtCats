@@ -1,23 +1,32 @@
 # jxExtArts
-OXID eShop Admin Module for Extended Article Editing
+OXID eShop Admin Module for Extended Category Editing
 
-All changes are made by overwriting the predefined blocks. Nothing of the original source code will be overwritten or changed. The settings are allowing you to choose which of the extension you want to use.
+I've tried to make all changes by overwriting the predefined blocks. But unfortunately, in the file category_main.tpl were no blocks 
+on the right side defined. And in category_list.tpl were blocks with wrong names defined. Therefore you have to overwite these two files 
+(but make a backup before you da that)
+
+The settings are allowing you to choose which of the extension you want to use.
 
 ### Features
 
 #### Settings
 
-Each tab extension can be switched on and off
-Each validation functions (date, EAN) can be individually enabled and disabled
+The new navigation column in the list of categories can be enabled and disabled
+The display of the assigned articles and attributes can be individually enabled and disabled
+
+#### List / Table
+
+A new column is added to the list. The links in this column allows to filter by the choosen category (the same as when you select this 
+category in the dropdown list, but faster). The "All" button at the top navigates you back to the root.
 
 #### Main Tab
 
-Clear display if date areas (from ... to) is used or the active checkbox
-Date validation (from ... to)
-EAN/GTIN validation on loading and on changing a product
-Larger field for the short description
+Two blocks were added to the right side. The first one shows all articles assigned to the selected category. If there are more than 
+10 articles a scrollbar will be displayed. 
+The second block shows all assigned attributes. Attributes which are used for articles will be shown in bold, not used in italic style.
 
 ### Example Screenshots
+
 ![Article_Main](https://raw.github.com/job963/jxExtCats/master/docs/img/jxExtCats-List.png)
 
 ![Article_Main](https://raw.github.com/job963/jxExtCats/master/docs/img/jxExtCats-Main.png)
