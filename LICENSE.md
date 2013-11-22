@@ -1,5 +1,5 @@
 # GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. (http://fsf.org/)
 
@@ -149,12 +149,12 @@ subprograms and other parts of the work.
 can regenerate automatically from other parts of the Corresponding
 Source.
 
-  The Corresponding Source for a work in source code form is that
+The Corresponding Source for a work in source code form is that
 same work.
 
- ### 2. Basic Permissions.
-
-  All rights granted under this License are granted for the term of
+### 2. Basic Permissions.
+ 
+All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
 conditions are met.  This License explicitly affirms your unlimited
 permission to run the unmodified Program.  The output from running a
@@ -177,7 +177,7 @@ your copyrighted material outside their relationship with you.
 the conditions stated below.  Sublicensing is not allowed; section 10
 makes it unnecessary.
 
- ### 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+### 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
 
   No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -212,19 +212,16 @@ and you may offer support or warranty protection for a fee.
 produce it from the Program, in the form of source code under the
 terms of section 4, provided that you also meet all of these conditions:
 
- * a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
+* a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
 
- * b) The work must carry prominent notices stating that it is released under this License and any conditions added under section 7.  This requirement modifies the requirement in section 4 to "keep intact all notices".
+* b) The work must carry prominent notices stating that it is released under this License and any conditions added under section 7.  This requirement modifies the requirement in section 4 to "keep intact all notices".
 
-* c) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.  This License will therefore apply, along with any applicable section 7 additional terms, to the whole of the work, and all its parts,
-    regardless of how they are packaged.  This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
+* c) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.  This License will therefore apply, along with any applicable section 7 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged.  This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
 
-* d) If the work has interactive user interfaces, each must display
-    Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
+* d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.
 
-  A compilation of a covered work with other separate and independent
+
+A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
 in or on a volume of a storage or distribution medium, is called an
@@ -247,25 +244,12 @@ in one of these ways:
 
 * c) Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source.  This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with subsection 6b.
 
-* d) Convey the object code by offering access from a designated
-    place (gratis or for a charge), and offer equivalent access to the
-    Corresponding Source in the same way through the same place at no
-    further charge.  You need not require recipients to copy the
-    Corresponding Source along with the object code.  If the place to
-    copy the object code is a network server, the Corresponding Source
-    may be on a different server (operated by you or a third party)
-    that supports equivalent copying facilities, provided you maintain
-    clear directions next to the object code saying where to find the
-    Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, you remain obligated to ensure that it is
-    available for as long as needed to satisfy these requirements.
+* d) Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge.  You need not require recipients to copy the Corresponding Source along with the object code.  If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source.  Regardless of what server hosts the Corresponding Source, you remain obligated to ensure that it is available for as long as needed to satisfy these requirements.
 
-* e) Convey the object code using peer-to-peer transmission, provided
-    you inform other peers where the object code and Corresponding
-    Source of the work are being offered to the general public at no
-    charge under subsection 6d.
+* e) Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 6d.
 
-  A separable portion of the object code, whose source code is excluded
+
+A separable portion of the object code, whose source code is excluded
 from the Corresponding Source as a System Library, need not be
 included in conveying the object code work.
 
@@ -360,7 +344,8 @@ that material) supplement the terms of this License with terms:
     any liability that these contractual assumptions directly impose on
     those licensors and authors.
 
-  All other non-permissive additional terms are considered "further
+
+All other non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10.  If the Program as you
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
@@ -593,7 +578,7 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
-                     END OF TERMS AND CONDITIONS
+END OF TERMS AND CONDITIONS
 
 ## How to Apply These Terms to Your New Programs
 
