@@ -21,12 +21,15 @@ $aModule = array(
     'url'          => 'https://github.com/job963/jxExtCats',
     'email'        => 'jobarthel@gmail.com',
     'extend'       => array(
-            'oxcategory' => 'jxmods/jxextcats/application/models/jxextcats_oxcategory'
+            'oxcategory' => 'jxmods/jxextcats/application/models/jxextcats_oxcategory',
+            'jxextcats_category_assigned'   => 'jxmods/jxextcats/application/controllers/admin/jxextcats_category_assigned',
                         ),
     'files'        => array(
-            'jxextcats_install'  => 'jxmods/jxextcats/application/controllers/admin/jxextcats_install.php'
+            'jxextcats_install'  => 'jxmods/jxextcats/application/controllers/admin/jxextcats_install.php',
+            'jxextcats_category_assigned'   => 'jxmods/jxextcats/application/controllers/admin/jxextcats_category_assigned.php',
                         ),
     'templates'    => array(
+            'jxextcats_category_assigned.tpl' => 'jxmods/jxextcats/views/admin/tpl/jxextcats_category_assigned.tpl',
                         ),
     'blocks' => array(
                     array(

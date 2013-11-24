@@ -5,6 +5,7 @@ $aLang = array(
     'JXEXTCATS_ALL'                                         => 'Alle',
     'JXEXTCATS_GOTO'                                        => 'Gehe zu',
     'JXEXTCATS_THISLINK'                                    => 'dieser ->',
+    'tbclcategory_jxextcats'                                => 'Versandkosten & Rabatte',
     
     'SHOP_MODULE_GROUP_JXEXTCATS_BLOCKS'                    => 'Folgende Bereiche erweitern',
     'SHOP_MODULE_sJxExtCatsShowCategoryList'                => 'Kategorie-Tabelle',
